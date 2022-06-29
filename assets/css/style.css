@@ -15160,3 +15160,15 @@ ul.blocks-gallery-grid li:before {
   border: 1px solid var(--main-color-one);
   color: #fff;
 }
+@media(max-width :  530px){
+  .logo-wrapper .logo-white-display img,.logo-wrapper .logo img{
+    max-width: 300px!important;
+  
+  }
+}
+@media(max-width :  400px){
+  .logo-wrapper .logo-white-display img,.logo-wrapper .logo img{
+    max-width: 250px!important;
+  
+  }
+}
